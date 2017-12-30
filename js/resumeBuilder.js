@@ -127,7 +127,7 @@ var projects = {
         title: "FreeRide" ,
         dates: "Present",
         description: "iOS Application",
-        images: ["images/profile-placeholder.jpg", "images/profile-placeholder.jpg"]
+        images: ["images/app.jpg", "images/app2.jpg"]
     }],
     display: function () {
 
